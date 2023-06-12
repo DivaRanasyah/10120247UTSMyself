@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DivaPutra</string>
+    <string name="perkenalan">Hallo, nama saya Rama Ramdani Akbar salam kenal ya , saya memiliki hobby, keterterikan dll seperti dibawah ini siapa tau ada yang sama ehehe.</string>
+    <string name="desc">Saya lahir di Bandung, 6 Januari 2002. Kuliah di Universitas Komputer Indonesia jurusan Teknik Informatika, kelas IF5</string>
+    <string name="nama">Diva Putra Ranasyah</string>
+    <string name="hobby">Hobby</string>
+    <string name="interest">Interest</string>
+    <string name="cita2">Cita-cita</string>
+    <string name="alamat">Alamat</string>
+    <string name="makes">Makes</string>
+    <string name="mikes">Mikes</string>
+    <string name="letto">Letto</string>
+    <string name="fav">Musik dan Video Favorit</string>
+
+</resources>
